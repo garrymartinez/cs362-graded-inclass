@@ -6,5 +6,5 @@ def subtract(x, y):
     return x - y
 
 
-def multiply():
-    return None
+def multiply(x, y):
+    return x * y
