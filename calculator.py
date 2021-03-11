@@ -1,6 +1,6 @@
-def add():
-    None
+def add(x, y):
+    return x + y
 
 
-def subtract():
-    None
+def subtract(x, y):
+    return x - y
